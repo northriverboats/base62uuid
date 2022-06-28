@@ -15,5 +15,6 @@ pip install -r requirements.txt
 # running
 ```
 cd base62uuid
+source venv/Scripts/activate
 ./base62uuid.py
 ```
