@@ -1,0 +1,9 @@
+.direnv/*
+/venv/*
+__pycache__/*
+*.pyc
+.env
+.envrc
+*.vscode
+*.egg-info/
+.*.swp
